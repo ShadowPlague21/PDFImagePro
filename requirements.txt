@@ -1,0 +1,7 @@
+pymupdf
+pillow
+psutil
+torch
+torchvision
+torchaudio
+numpy 
